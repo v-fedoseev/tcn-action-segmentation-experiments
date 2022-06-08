@@ -1,5 +1,6 @@
 ## Experiments with the MS-TCN paper
 ["MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation"](https://openaccess.thecvf.com/content_CVPR_2019/papers/Abu_Farha_MS-TCN_Multi-Stage_Temporal_Convolutional_Network_for_Action_Segmentation_CVPR_2019_paper.pdf), CVPR 2019 by Y. Abu Farha and J. Gall.
+
 This was done as a part of my Video Analytics coursework.
 
 ### Task 1
